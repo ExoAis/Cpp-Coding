@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\Muhammad Darab\OneDrive\Desktop\C++Course\Algorithms\main.cpp(35,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Algorithms.vcxproj -> C:\Users\Muhammad Darab\OneDrive\Desktop\C++Course\Algorithms\Debug\Algorithms.exe
